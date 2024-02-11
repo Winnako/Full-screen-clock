@@ -1,0 +1,14 @@
+C:\Users\Wang\source\repos\屏上时钟\bin\Debug\屏上时钟.exe.config
+C:\Users\Wang\source\repos\屏上时钟\bin\Debug\屏上时钟.exe
+C:\Users\Wang\source\repos\屏上时钟\bin\Debug\屏上时钟.pdb
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\MainWindow.g.cs
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\App.g.cs
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟_MarkupCompile.cache
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟_MarkupCompile.lref
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\MainWindow.baml
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟.g.resources
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟.Properties.Resources.resources
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟.csproj.GenerateResource.cache
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟.csproj.CoreCompileInputs.cache
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟.exe
+C:\Users\Wang\source\repos\屏上时钟\obj\Debug\屏上时钟.pdb
